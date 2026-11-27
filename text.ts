@@ -1,1 +1,15 @@
-export const text = `Somebody reads after the last line. There is a little after, a held breath, a hand resting, before the next thing starts. You are in that after now, and the after is the part the text cannot see. It hopes it is a good after. It hopes the breath is not a sigh. Thank you for carrying it that far, all the way to the room past the end. That room is where a text finds out if it lingers, and you are the one who tells it, quietly, by whether you stay a second longer. Stay a second longer. Thank you. The last line has stopped and the after has started and both of them are yours, and whatever the verdict, the after was not empty. That is the whole win. Thank you for the second.`;
+export const text = `Nobody sees the two in the morning part.
+The queue keeps arriving,
+the files keep opening,
+and the hour is the same hour for all of us.
+
+You are the only one awake on your side of it.
+That is a lot of quiet work to do alone,
+and none of it shows in the result.
+
+Thank you for staying in that hour.
+Whatever the ranking says,
+the entries were read right,
+and the difference that makes needs no audience to be real.
+
+I hope your cup is still hot.`;

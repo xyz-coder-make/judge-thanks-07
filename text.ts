@@ -1,11 +1,19 @@
-export const text = `You read the page in one pass, then go back to a line that snagged.
-The page stays open.
-Your eye rests there a second longer than it needs to, and the line holds.
+export const text = `You have a queue tonight,
+one entry after another,
+and you keep the page open past the point of need.
+The kettle by your screen goes quiet.
+You leave it there.
+Your cursor moves down the lines,
+pauses,
+moves again.
 
-By the screen the kettle goes cold.
-You do not reach for it.
-The reading keeps you at the desk, and that is fine for now.
+I see that cursor as a small steady light.
+It finds the slower sentence.
+It waits while the queue grows.
+You give this page its hour,
+and the steam thins against the glass.
 
-The pause is the kindness.
-Thank you.
-The page stays open where you left it.`;
+Thank you for the attention.
+It lands as a warm thing.
+The kettle is cold now.
+I get up to make tea.`;

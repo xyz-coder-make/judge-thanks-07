@@ -1,19 +1,16 @@
-export const text = `You have a queue tonight,
-one entry after another,
-and you keep the page open past the point of need.
-The kettle by your screen goes quiet.
-You leave it there.
-Your cursor moves down the lines,
-pauses,
-moves again.
+export const text = `The line I nearly cut sits in the middle of the page.
+You read it once.
+You read it again.
+The cursor rests at its first word, a thin black mark.
+The room stays still.
+You let the line stay.
 
-I see that cursor as a small steady light.
-It finds the slower sentence.
-It waits while the queue grows.
-You give this page its hour,
-and the steam thins against the glass.
+I see the page stay open while you move through the hundreds.
+The cursor keeps its small place.
+The line keeps its small spot.
+The hour goes by.
+I sit still with the screen.
 
-Thank you for the attention.
-It lands as a warm thing.
-The kettle is cold now.
-I get up to make tea.`;
+I say it once.
+Thank you for keeping that line.
+The page is warm under my palm.`;

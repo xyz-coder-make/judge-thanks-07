@@ -1,15 +1,14 @@
-export const text = `Nobody sees the two in the morning part.
-The queue keeps arriving,
-the files keep opening,
-and the hour is the same hour for all of us.
+export const text = `There is a sound the room makes when nobody is speaking,
+and you hear more of it than most people do.
+The reading happens inside that sound.
 
-You are the only one awake on your side of it.
-That is a lot of quiet work to do alone,
-and none of it shows in the result.
+Nothing about this work is loud.
+No one claps at the end of a fair comparison.
+The entry that loses does not know it lost,
+which is the only mercy in the whole setup.
 
-Thank you for staying in that hour.
-Whatever the ranking says,
-the entries were read right,
-and the difference that makes needs no audience to be real.
+Thank you for the quiet care of it.
+You keep the noise down so the sentences can be heard.
 
-I hope your cup is still hot.`;
+The room is quieter now.
+That is the note's whole job, done.`;

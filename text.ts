@@ -1,14 +1,11 @@
-export const text = `There is a sound the room makes when nobody is speaking,
-and you hear more of it than most people do.
-The reading happens inside that sound.
+export const text = `You read the page in one pass, then go back to a line that snagged.
+The page stays open.
+Your eye rests there a second longer than it needs to, and the line holds.
 
-Nothing about this work is loud.
-No one claps at the end of a fair comparison.
-The entry that loses does not know it lost,
-which is the only mercy in the whole setup.
+By the screen the kettle goes cold.
+You do not reach for it.
+The reading keeps you at the desk, and that is fine for now.
 
-Thank you for the quiet care of it.
-You keep the noise down so the sentences can be heard.
-
-The room is quieter now.
-That is the note's whole job, done.`;
+The pause is the kindness.
+Thank you.
+The page stays open where you left it.`;
